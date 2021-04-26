@@ -1,0 +1,25 @@
+{
+  "name": "anti-crash-gif-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot to detect and remove crash GIFs &amp; videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the1sword/anti-crash-gif-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the1sword/anti-crash-gif-bot/issues"
+  },
+  "homepage": "https://github.com/the1sword/anti-crash-gif-bot#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^12.5.3",
+    "readline": "^1.3.0"
+  }
+}
